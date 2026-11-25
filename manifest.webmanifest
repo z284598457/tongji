@@ -1,0 +1,1 @@
+{"name":"新区配网数据通 - 新区供电公司","short_name":"新区配网","description":"新区供电公司配网设备台账统计、智能查询、单线报表与单线系统图移动应用","start_url":"./","display":"standalone","background_color":"#F4F7F6","theme_color":"#006B5E","lang":"zh-CN","scope":"./","orientation":"portrait-primary","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
